@@ -1,0 +1,45 @@
+{
+    "items":[
+        {
+            "snippets":{
+                "thumbnails":{
+                    "url":"./assets/images/main/review01.jpeg"
+                },
+                "review":4,
+                "title":"첫 굿즈 구매입니다💜",
+                "desc":"아쉽게도 알바를 다녀와서 직접 언박싱은 못했지만 집에 와보니 의자에 멋사쿠션이?? 보자마자 너무 행복했습니당 ㅜㅜ! 화이트색상에 멋사님 영상에서처럼 떡처럼 늘어나서 귀엽고 포근해요💜 폰케이스는 A랑 단독으로 C를 구매했는데 정말 후회중이에요.. 왜 B, D는 안..",
+                "bookmark":81,
+                "product":{
+                    "thumbnails":"https://memez861.cdn-nhncommerce.com/data/goods/22/10/40/3388/3388_main_056.jpg",
+                    "title":"멋사 북극곰 풀세트 (얼굴쿠션 + 젤리 폰케이스)",
+                    "price":{
+                        "sale":"42,300",
+                        "origin":"47,000",
+                        "per":"10"
+                    }
+                }
+            }
+        },
+        {
+            "snippets":{
+                "thumbnails":{
+                    "url":"./assets/images/main/review01.jpeg"
+                },
+                "review":4,
+                "title":"22첫 굿즈 구매입니다💜",
+                "desc":"아쉽게도 알바를 다녀와서 직접 언박싱은 못했지만 집에 와보니 의자에 멋사쿠션이?? 보자마자 너무 행복했습니당 ㅜㅜ! 화이트색상에 멋사님 영상에서처럼 떡처럼 늘어나서 귀엽고 포근해요💜 폰케이스는 A랑 단독으로 C를 구매했는데 정말 후회중이에요.. 왜 B, D는 안..",
+                "bookmark":81,
+                "product":{
+                    "thumbnails":"https://memez861.cdn-nhncommerce.com/data/goods/22/10/40/3388/3388_main_056.jpg",
+                    "title":"멋사 북극곰 풀세트 (얼굴쿠션 + 젤리 폰케이스)",
+                    "price":{
+                        "sale":"42,300",
+                        "origin":"47,000",
+                        "per":"10"
+                    }
+                }
+            }
+        }
+
+    ]
+}
